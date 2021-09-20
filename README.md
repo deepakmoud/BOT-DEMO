@@ -5,45 +5,21 @@
 
 # Requirements
 
-1) [nodejs](https://nodejs.org/en/download/) version 10.14 or higher
-2) [BotBuilder-Samples-repo](https://github.com/microsoft/BotBuilder-Samples) , This repository contains a lot of pre made `bots`
-3) `Bot Framework v4` Bot Framework Emulator is a desktop application that allows bot developers to test and debug bots and it also includes a modular and extensible SDK for building bots.
-
-
-
-
-
-
-
-
-
-
-`__________________________`
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
-
-## Prerequisites
-
-- [Node.js](https://nodejs.org) version 10.14 or higher
+1) [Nodejs](https://nodejs.org/en/download/) version 10.14 or higher
 
     ```bash
     # determine node version
     node --version
     ```
 
-## To try this sample
+2) [BotBuilder-Samples-repo](https://github.com/microsoft/BotBuilder-Samples) , This repository contains a lot of pre made `bots`
 
 - Clone the repository
 
     ```bash
     git clone https://github.com/microsoft/botbuilder-samples.git
     ```
-
-- In a terminal, navigate to `samples/javascript_nodejs/02.echo-bot`
-
-    ```bash
-    cd samples/javascript_nodejs/02.echo-bot
-    ```
-
+       
 - Install modules
 
     ```bash
@@ -55,6 +31,11 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
     ```bash
     npm start
     ```
+3) `Bot Framework v4` Bot Framework Emulator is a desktop application that allows bot developers to test and debug bots and it also includes a modular and extensible SDK for building bots.
+
+
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+
 
 ## Testing the bot using Bot Framework Emulator
 
