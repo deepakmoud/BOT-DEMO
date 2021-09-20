@@ -1,6 +1,13 @@
 # echo-bot
 
-Bot Framework v4 echo bot sample
+
+
+
+# Requirements
+
+1) [nodejs](https://nodejs.org/en/download/) version 10.14 or higher
+2) [BotBuilder-Samples-repo](https://github.com/microsoft/BotBuilder-Samples) , This repository contains a lot of pre made `bots`
+3) [Bot Framework v4] Bot Framework Emulator is a desktop application that allows bot developers to test and debug bots and it also includes a modular and extensible SDK for building bots.
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
