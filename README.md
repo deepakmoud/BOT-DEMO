@@ -11,6 +11,9 @@
     # determine node version
     node --version
     ```
+Install VS CODE
+
+https://code.visualstudio.com/download
 
 2) [BotBuilder-Samples-repo](https://github.com/microsoft/BotBuilder-Samples) , This repository contains a lot of pre made `bots`
 
