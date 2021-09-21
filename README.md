@@ -36,7 +36,7 @@ https://code.visualstudio.com/download
     ```
 3) `Bot Framework v4` Bot Framework Emulator is a desktop application that allows bot developers to test and debug bots and it also includes a modular and extensible SDK for building bots.
 
-https://github.com/Microsoft/BotFramework-Emulator/releases
+https://github.com/Microsoft/BotFramework-Emulator/releases                                                                                                                                  
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
 
